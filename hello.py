@@ -13,7 +13,10 @@ def iou():
     return x*y
 
 def auc():
-    print("counting auc")
+    print("I modify something here")
+
+def mAP():
+    print("this is how to countting mAP")
 
 def main():
     hello()
