@@ -12,6 +12,9 @@ def iou():
     y  = 2
     return x*y
 
+def auc():
+    print("counting auc")
+
 def main():
     hello()
     hi()
